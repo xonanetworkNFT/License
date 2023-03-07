@@ -1,8 +1,9 @@
-# Mocaverse
-Mocaverse is an[@animocabrands](https://twitter.com/animocabrands) membership NFT collection of 8888 unique Mocas. Join us in the realms to Learn, 
-Play, Do Good, and Build together as we share our Web3 values!
+# Xona Network
+Xona Network is an [@cmsholdings](https://twitter.com/cmsholdings  ) membership NFT collection of 5555 unique Awakened. Join us in the realms to Learn, Earn, Research,
+and Build together as we share our Web3 values!
 
-Visit  [https://mocaverse.xyz/ ](https://mocaverse.xyz/ ) and follow us on twitter [@MocaverseNFT](https://twitter.com/animocabrands) to learn more about the project.
+Visit [https://xonanetwork.net/](https://xonanetwork.net/) and follow us on twitter [@XonaNetwork](https://twitter.com/XonaNetwork) to learn more about the project.
 
 ## License
-This repository contains License agreement used in Mocaverse for informational purpose.
+This repository contains [License agreement](https://twitter.com/XonaNetwork) used in Xona Network for informational purpose.
+   
