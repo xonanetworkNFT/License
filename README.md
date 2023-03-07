@@ -1,6 +1,6 @@
 # Xona Network
 Xona Network is an [@cmsholdings](https://twitter.com/cmsholdings  ) membership NFT collection of 5555 unique Awakened. 
-Join us in the realmsto Learn, 
+Join us in the realms to Learn, 
 Earn, Research,
 and Build together as we share our Web3 values!
 
