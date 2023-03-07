@@ -34,3 +34,5 @@ D. The Licensee may not assign or transfer any of its rights or obligations unde
 E. The parties to this license are independent contractors and this license does not create any agency, partnership, joint venture, or employment relationship between them.
 
 F. The headings in this license are for convenience only and shall not affect its interpretation.
+
+By inserting an electronic signature below, you, being the sole and absolute owner of the private keys to the wallet address ______________________________________________________, hereby agree to the terms of this Agreement.
