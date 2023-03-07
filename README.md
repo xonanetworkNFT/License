@@ -4,5 +4,5 @@ Play, Do Good, and Build together as we share our Web3 values!
 
 Visit  [https://mocaverse.xyz/ ](https://mocaverse.xyz/ ) and follow us on twitter [@MocaverseNFT](https://twitter.com/animocabrands) to learn more about the project.
 
-# License
+## License
 This repository contains License agreement used in Mocaverse for informational purpose.
